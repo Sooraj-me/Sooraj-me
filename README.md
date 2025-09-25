@@ -6,14 +6,15 @@
 
 ## 👨‍💻 About Me  
 
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
-  🎓 Student @ <b>Sri Ramakrishna Institute of Technology</b><br>
-  💼 Former Intern @ <b>IITMRP</b><br>
-  🔭 Explore my <a href="https://sooraj-me.github.io/portfolio/"><b>Portfolio</b></a><br>
-  🌱 Currently learning <b>DSA</b> & <b>Machine Learning</b><br>
-  ⚡ Love building <b>interactive websites & scalable apps</b>  
-</p>
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Student @ **Sri Ramakrishna Institute of Technology**  
+💼 Former Intern @ **IITMRP**  
+🔭 Explore my [**Portfolio**](https://sooraj-me.github.io/portfolio/)  
+🌱 Currently learning **DSA** & **Machine Learning**  
+⚡ Love building **interactive websites & scalable apps**  
+
+<br clear="right"/>
 
 ---
 
