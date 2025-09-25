@@ -3,7 +3,7 @@
 Student @ Sri Ramakrishna Institute of Technology
 <img align="right" width="370" height="290" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dnp5dWY4c281bHVlcXV3OW4xZXI2bzIwc3VzZHZlZ3dpZXZxdHQwMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif">
 - 🔭 Here's my [portfolio](https://sooraj-me.github.io/portfolio/)                                                 
-- 🌱 I’m currently learning DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning DSA and Machine Learning
 - Social Presence
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sooraj-r-nair-38757925a) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz)
 
