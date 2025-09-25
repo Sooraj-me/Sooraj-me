@@ -1,28 +1,43 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!;Turning+Ideas+into+Code+✨">
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td>
 
 🎓 Student @ **Sri Ramakrishna Institute of Technology**  
 💼 Former Intern @ **IITMRP**  
-🔭 Explore my [**Portfolio**](https://sooraj-me.github.io/portfolio/)  
 🌱 Currently learning **DSA** & **Machine Learning**  
-⚡ Love building **interactive websites & scalable apps**  
+⚡ Passionate about building **interactive websites & scalable apps**  
+🔭 Explore my work 👉 [**Portfolio**](https://sooraj-me.github.io/portfolio/)  
 
-<br clear="right"/>
+</td>
+<td>
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 Social Presence  
+## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sooraj-r-nair-38757925a)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sooraj-me.github.io/portfolio/)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://sooraj-me.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
