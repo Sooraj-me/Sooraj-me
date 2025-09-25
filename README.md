@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!">
 </p>
+
 
 ---
 
