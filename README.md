@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+ <!-- <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>-->
 </p>
 
 <p align="center">
