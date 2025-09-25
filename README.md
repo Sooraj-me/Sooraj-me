@@ -1,6 +1,5 @@
-<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Full+Stack+Developer+%7C+Student@SRIT;Tech+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!">
 </p>
 
 ---
@@ -51,17 +50,3 @@
 </p>  
 
 ---
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soorajrnair&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorajrnair&layout=compact&theme=radical" height="170"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soorajrnair&theme=radical" height="170"/>
-</p>
-
----
-
