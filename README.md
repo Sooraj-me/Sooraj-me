@@ -6,13 +6,13 @@
 
 ## 👨‍💻 About Me  
 
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 🎓 Student @ **Sri Ramakrishna Institute of Technology**  
 💼 Former Intern @ **IITMRP**  
 🔭 Explore my [**Portfolio**](https://sooraj-me.github.io/portfolio/)  
 🌱 Currently learning **DSA** & **Machine Learning**  
 ⚡ Love building **interactive websites & scalable apps**  
-
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
@@ -48,5 +48,3 @@
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img height="50" src="https://img.icons8.com/glyph-neue/64/ffffff/github.png"/>
 </p>  
-
----
