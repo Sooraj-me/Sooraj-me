@@ -5,7 +5,11 @@
 ---
 
 ## 👨‍💻 About Me  
-<table><tr><td>
+
+<table>
+<tr>
+<td>
+
 🎓 Student @ **Sri Ramakrishna Institute of Technology**  
 💼 Former Intern @ **IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
