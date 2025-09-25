@@ -70,9 +70,17 @@
 
 ## 📊 GitHub Analytics  
 
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sooraj-me&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 </p>
 
 <p align="center">
