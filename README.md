@@ -14,6 +14,8 @@
 🌱 Currently learning **DSA** & **Machine Learning**  
 ⚡ Love building **interactive websites & scalable apps**  
 
+<br clear="right"/>
+
 ---
 
 ## 🌐 Social Presence  
