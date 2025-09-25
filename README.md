@@ -72,6 +72,8 @@
 
 
 
+## 📊 GitHub Analytics  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
@@ -81,8 +83,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-</p>
+---
+
+## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=0D1117&color=F75C7E&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/>
 </p>
+
+</p>
+
