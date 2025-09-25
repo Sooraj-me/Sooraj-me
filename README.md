@@ -1,23 +1,28 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!&background=1E1E1E,0D1117,2A2A72,000000">
 </p>
+
 ---
 
 ## 👨‍💻 About Me  
-<table>
-<tr>
-<td>🎓 Student @ **Sri Ramakrishna Institute of Technology**  
+<table><tr><td>
+🎓 Student @ **Sri Ramakrishna Institute of Technology**  
 💼 Former Intern @ **IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
 ⚡ Passionate about building **interactive websites & scalable apps**  
 🔭 Explore my work 👉 [**Portfolio**](https://sooraj-me.github.io/portfolio/)  
 
-</td></tr>
+</td>
+<td>
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</td>
+</tr>
 </table>
 
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
+
 ## 🌐 Connect with Me  
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -29,7 +34,9 @@
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
 ---
+
 ## 🧑‍💻 Tech Stack  
 
 <p align="center">
@@ -42,8 +49,11 @@
   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>  
+
 ---
+
 ## ⚡ Tools & IDEs  
+
 <p align="center">
   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
@@ -51,19 +61,24 @@
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img height="50" src="https://img.icons8.com/glyph-neue/64/ffffff/github.png"/>
 </p>  
+
 ---
+
 ## 📊 GitHub Analytics  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-<!--  <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>-->
+  <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 ---
+
 ## 📈 Contribution Graph  
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=0D1117&color=F75C7E&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/>
 </p>
-</p>
-
