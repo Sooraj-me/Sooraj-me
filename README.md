@@ -1,7 +1,7 @@
 <!-- 🌟 SOORAJ R NAIR - Unique GitHub README 🌟 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hey+there+👋;+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
 </h1>
 
 <p align="center">
@@ -32,10 +32,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 Featured Projects
 
 ---
 
@@ -143,27 +139,8 @@
 
 ---
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://sooraj-me.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
 ---
-
-## 💡 “Code. Create. Contribute.”
 <p align="center">
-  <img src="https://github.com/sooraj-me/sooraj-me/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://komarev.com/ghpvc/?username=sooraj-me&label=Profile+Views&color=00C9FF&style=for-the-badge" alt="Profile Views Counter"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</p>
