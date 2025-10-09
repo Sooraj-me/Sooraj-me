@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 <span style="color:#FFD700;">About Me</span>
+## 👨‍💻 <span style="color:#D4AF37 ;">About Me</span>
 
 <table>
 <tr>
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 <span style="color:#FFD700;">Connect with Me</span>
+## 🌐 <span style="color:#D4AF37 ;">Connect with Me</span>
 <p align="center">
   <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,7 +42,7 @@
 
 ---
 
-## 🧑‍💻 <span style="color:#FFD700;">Tech Stack</span>
+## 🧑‍💻 <span style="color:#D4AF37 ;">Tech Stack</span>
 
 <p align="center">
   <img height="50" src="https://img.icons8.com/color/48/python.png"/>
@@ -57,7 +57,7 @@
 
 ---
 
-## ⚡ <span style="color:#FFD700;">Tools & IDEs</span>
+## ⚡ <span style="color:#D4AF37 ;">Tools & IDEs</span>
 
 <p align="center">
   <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
@@ -69,7 +69,7 @@
 
 ---
 
-## 📊 <span style="color:#FFD700;">GitHub Analytics</span>
+## 📊 <span style="color:#D4AF37 ;">GitHub Analytics</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="180"/>
@@ -81,7 +81,7 @@
 
 ---
 
-## 📈 <span style="color:#FFD700;">Contribution Graph</span>
+## 📈 <span style="color:#D4AF37 ;">Contribution Graph</span>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/>
