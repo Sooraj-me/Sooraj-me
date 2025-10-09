@@ -1,7 +1,7 @@
 <!-- ✨ Sooraj R Nair - Golden Animated GitHub Profile ✨ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+My coding corner💻&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+My+Coding+Corner💻&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
 </p>
 
 ---
