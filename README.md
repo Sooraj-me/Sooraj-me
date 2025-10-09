@@ -1,7 +1,7 @@
 <!-- ✨ Sooraj R Nair - Golden Animated GitHub Profile ✨ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!;Crafting+Code+That+Shines+✨&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+My coding corner💻&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
 </p>
 
 ---
@@ -28,16 +28,15 @@
 ---
 
 ## 🌐 <span style="color:#FFD700;">Connect with Me</span>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://sooraj-me.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
