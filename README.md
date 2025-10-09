@@ -1,8 +1,9 @@
-<!-- 🌟 SOORAJ R NAIR - Unique GitHub README 🌟 -->
+<!-- 🌟 SOORAJ R NAIR - Responsive & Unique GitHub README 🌟 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
 </h1>
+
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=sooraj-me&data=followers,repositories,stars,commits&theme=darkmode" />
@@ -15,7 +16,7 @@
 <table>
 <tr>
 <td width="60%">
-  
+
 🎓 **Student @ Sri Ramakrishna Institute of Technology**  
 💼 **Former Intern @ IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
@@ -38,34 +39,65 @@
 ## 🌟 Featured Projects
 
 ### 🎬 **Movie Discovery Web App**
-> A sleek MERN web app that helps users discover trending, top-rated, and upcoming movies with live API integration.
-  
+> A sleek web app that helps users discover trending, top-rated, and upcoming movies with live API integration.
+
 🔗 [Live Demo](https://sooraj-me.github.io/movie-discovery) | 💻 [Repository](https://github.com/sooraj-me/movie-discovery)  
-🛠 **Tech Stack:** React, Node.js, Express, MongoDB, TMDB API  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, TMDB API  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TMDB_API-00C9FF?style=for-the-badge&logoColor=white"/>
 </p>
 
 ---
 
-### 📂 **File Sharing Web App**
-> A secure and simple file-sharing platform to upload, generate shareable links, and download files effortlessly.
+### 🧠 **AI Face Tracker with Auto-Registration**
+> Real-time intelligent face tracking system that detects, registers, and counts unique visitors using YOLOv8 and OpenCV.
 
-🔗 [Live Demo](https://filesharingapplication-9nss.onrender.com/) | 💻 [Repository](https://github.com/sooraj-me/file-sharing-app)  
-🛠 **Tech Stack:** HTML, CSS, JavaScript, Express, Node.js  
+🔗 [Live Demo](https://sooraj-me.github.io/face-tracker) | 💻 [Repository](https://github.com/sooraj-me/face-tracker)  
+🛠 **Tech Stack:** Python, OpenCV, YOLOv8, Flask  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-FFDD00?style=for-the-badge&logo=ai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
+
+### 📁 **File Sharing App**
+> Secure and fast file sharing web application that allows users to upload, generate shareable links, and manage files efficiently.
+
+🔗 [Live Demo](https://sooraj-me.github.io/file-sharing-app) | 💻 [Repository](https://github.com/sooraj-me/file-sharing-app)  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+---
+
+### 🏫 **Smart Attendance Management System**
+> A full-stack attendance tracker for students and teachers — with authentication, dashboards, and live database updates.
+
+🔗 [Live Demo](https://sooraj-me.github.io/student-attendance-system) | 💻 [Repository](https://github.com/sooraj-me/student-attendance-system)  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
 ---
 
@@ -76,15 +108,13 @@
 💻 [Repository](https://github.com/sooraj-me/personal-chatbot-rag)  
 🛠 **Progress:** ![Progress](https://img.shields.io/badge/Progress-40%25-yellow?style=for-the-badge&logo=progress&logoColor=white)
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
-<img src="https://img.shields.io/badge/LangChain-0B3D91?style=for-the-badge&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
-<img src="https://img.shields.io/badge/FAISS-006600?style=for-the-badge&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-0B3D91?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-006600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
 ---
 
@@ -135,12 +165,37 @@
 - 🥇 Completed **Internship @ IITMRP**
 - 🚀 Built multiple **Full Stack Projects**
 - 📊 Created interactive **Data Analysis Dashboards**
-- 🌟 Consistently active in **tech & coding communities**
+- 🌟 Active in **tech & coding communities**
 
 ---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://sooraj-me.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
+## 💡 “Code. Create. Contribute.”
+<p align="center">
+  <img src="https://github.com/sooraj-me/sooraj-me/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sooraj-me&label=Profile+Views&color=00C9FF&style=for-the-badge" alt="Profile Views Counter"/>
 </p>
-
