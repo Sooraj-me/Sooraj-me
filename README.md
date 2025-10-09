@@ -1,3 +1,95 @@
-<p align="center">   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!&background=1E1E1E,0D1117,2A2A72,000000"> </p>  ---  ## 👨‍💻 About Me    <table> <tr> <td>  🎓 Student @ **Sri Ramakrishna Institute of Technology**   💼 Former Intern @ **IITMRP**   🌱 Currently learning **DSA** & **Machine Learning**   ⚡ Passionate about building **interactive websites & scalable apps**   🔭 Explore my work 👉 [**Portfolio**](https://sooraj-me.github.io/portfolio/)    </td> <td>   <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> </td> </tr> </table>  ---  ## 🌐 Connect with Me    <p align="center">   <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>   </a>   <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">     <img src="https://img.shields.io/badge/-Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>   </a>   <a href="https://sooraj-me.github.io/portfolio/" target="_blank">     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>   </a> </p>  ---  ## 🧑‍💻 Tech Stack    <p align="center">   <img height="50" src="https://img.icons8.com/color/48/000000/python.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/html-5.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </p>    ---  ## ⚡ Tools & IDEs    <p align="center">   <img height="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>   <img height="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>   <img height="50" src="https://img.icons8.com/color/480/notion--v1.png"/>   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>   <img height="50" src="https://img.icons8.com/glyph-neue/64/ffffff/github.png"/> </p>    ---  ## 📊 GitHub Analytics    <p align="center">   <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>  <!-- <img src="https://streak-stats.demolab.com?user=sooraj-me&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>--> </p>  <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical" alt="Top Languages"/> </p>  ---  ## 📈 Contribution Graph    <p align="center">   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=0D1117&color=F75C7E&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/> </p> 
+<!-- ✨ Sooraj R Nair - Golden Animated GitHub Profile ✨ -->
 
-Make it unique and attractive that the most of peoples don't have this
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+my+GitHub!;Crafting+Code+That+Shines+✨&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
+</p>
+
+---
+
+## 👨‍💻 <span style="color:#FFD700;">About Me</span>
+
+<table>
+<tr>
+<td>
+
+🎓 Student @ **Sri Ramakrishna Institute of Technology**  
+💼 Former Intern @ **IITMRP**  
+🌱 Currently learning **DSA** & **Machine Learning**  
+⚡ Passionate about building **interactive websites & scalable apps**  
+🔭 Explore my work 👉 [**Portfolio**](https://sooraj-me.github.io/portfolio/)
+
+</td>
+<td align="center">
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 <span style="color:#FFD700;">Connect with Me</span>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+  </a>
+  <a href="https://www.instagram.com/s_o_o_raj_04?igsh=aWwwYjBvOTJoZ2Vz" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=000000"/>
+  </a>
+  <a href="https://sooraj-me.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=000000"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 <span style="color:#FFD700;">Tech Stack</span>
+
+<p align="center">
+  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+</p>
+
+---
+
+## ⚡ <span style="color:#FFD700;">Tools & IDEs</span>
+
+<p align="center">
+  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
+  <img height="50" src="https://img.icons8.com/color/480/notion--v1.png"/>
+  <img height="50" src="https://img.shields.io/badge/Netlify-FFD700?style=for-the-badge&logo=netlify&logoColor=000000"/>
+  <img height="50" src="https://img.icons8.com/glyph-neue/64/FFD700/github.png"/>
+</p>
+
+---
+
+## 📊 <span style="color:#FFD700;">GitHub Analytics</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=tokyonight&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+</p>
+
+---
+
+## 📈 <span style="color:#FFD700;">Contribution Graph</span>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sooraj-me&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
