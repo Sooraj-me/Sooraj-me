@@ -37,27 +37,58 @@
 
 ## 🌟 Featured Projects
 
+---
+
+## 🌟 Featured Projects
+
 ### 🎬 **Movie Discovery Web App**
 > A sleek MERN web app that helps users discover trending, top-rated, and upcoming movies with live API integration.
   
 🔗 [Live Demo](https://sooraj-me.github.io/movie-discovery) | 💻 [Repository](https://github.com/sooraj-me/movie-discovery)  
 🛠 **Tech Stack:** React, Node.js, Express, MongoDB, TMDB API  
 
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
 ---
 
-### 🧠 **AI Face Tracker with Auto-Registration**
-> Real-time intelligent face tracking system that detects, registers, and counts unique visitors using YOLOv8 and OpenCV.
+### 📂 **File Sharing Web App**
+> A secure and simple file-sharing platform to upload, generate shareable links, and download files effortlessly.
 
-🔗 [Live Demo](https://sooraj-me.github.io/face-tracker) | 💻 [Repository](https://github.com/sooraj-me/face-tracker)  
-🛠 **Tech Stack:** Python, OpenCV, YOLOv8, Flask, MongoDB  
+🔗 [Live Demo](https://filesharingapplication-9nss.onrender.com/) | 💻 [Repository](https://github.com/sooraj-me/file-sharing-app)  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, Express, Node.js  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+</p>
 
 ---
 
-### 🏫 **Smart Attendance Management System**
-> A full-stack attendance tracker for students and teachers — with authentication, dashboards, and live database updates.
+---
 
-🔗 [Live Demo](https://sooraj-me.github.io/student-attendance-system) | 💻 [Repository](https://github.com/sooraj-me/student-attendance-system)  
-🛠 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+### 💬 **Personal Chatbot — Retrieval Augmented Generation (RAG)** 🚧 *Ongoing Project*
+> A personal AI assistant that answers queries from your documents using Retrieval-Augmented Generation (RAG).  
+> Currently building document upload, vector store indexing, and context-based chat generation features.
+
+💻 [Repository](https://github.com/sooraj-me/personal-chatbot-rag)  
+🛠 **Progress:** ![Progress](https://img.shields.io/badge/Progress-40%25-yellow?style=for-the-badge&logo=progress&logoColor=white)
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
+<img src="https://img.shields.io/badge/LangChain-0B3D91?style=for-the-badge&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
+<img src="https://img.shields.io/badge/FAISS-006600?style=for-the-badge&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" style="transition: transform 0.2s; transform: scale(1);" onmouseover="this.style.transform='scale(1.15)';" onmouseout="this.style.transform='scale(1)';"/>
+
+</div>
 
 ---
 
