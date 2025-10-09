@@ -55,7 +55,7 @@
 ### 🎬 **Movie Discovery Web App**
 > A sleek web app that helps users discover trending, top-rated, and upcoming movies with live API integration.
 
-🔗 [Live Demo](https://sooraj-me.github.io/movie-discovery) | 💻 [Repository](https://github.com/sooraj-me/movie-discovery)  
+🔗 [Live Demo](https://sooraj-me.github.io/movie-discovery) | 💻 [Repository](https://github.com/Sooraj-me/Find-Movies-Application)  
 🛠 **Tech Stack:** HTML, CSS, JavaScript, TMDB API  
 
 <p align="left">
@@ -70,7 +70,7 @@
 ### 📁 **File Sharing App**
 > Secure and fast file sharing web application that allows users to upload, generate shareable links, and manage files efficiently.
 
-🔗 [Live Demo](https://filesharingapplication-9nss.onrender.com/) | 💻 [Repository](https://github.com/sooraj-me/file-sharing-app)  
+🔗 [Live Demo](https://filesharingapplication-9nss.onrender.com/) | 💻 [Repository](https://github.com/Sooraj-me/File-Sharing-Application)  
 🛠 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express  
 
 <p align="left">
@@ -83,28 +83,11 @@
 
 ---
 
-### 🏫 **Smart Attendance Management System**
-> A full-stack attendance tracker for students and teachers — with authentication, dashboards, and live database updates.
-
-🔗 [Live Demo](https://sooraj-me.github.io/student-attendance-system) | 💻 [Repository](https://github.com/sooraj-me/student-attendance-system)  
-🛠 **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express, MongoDB  
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
----
-
 ### 💬 **Personal Chatbot — Retrieval Augmented Generation (RAG)** 🚧 *Ongoing Project*
 > A personal AI assistant that answers queries from your documents using Retrieval-Augmented Generation (RAG).  
 > Currently building document upload, vector store indexing, and context-based chat generation features.
 
-💻 [Repository](https://github.com/sooraj-me/personal-chatbot-rag)  
+💻 [Repository](https://github.com/Sooraj-me/RAG-Chatbot)  
 🛠 **Progress:** ![Progress](https://img.shields.io/badge/Progress-40%25-yellow?style=for-the-badge&logo=progress&logoColor=white)
 
 <p align="left">
