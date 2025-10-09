@@ -1,33 +1,119 @@
-<!-- ✨ Sooraj R Nair - Golden Animated GitHub Profile ✨ -->
+<!-- 🌟 SOORAJ R NAIR - Unique GitHub README 🌟 -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9FF,F75C7E,9B5DE5,FF9933&center=true&vCenter=true&width=500&lines=Hey+there+👋;+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Sooraj+R+Nair;Welcome+to+My+Coding+Corner💻&background=000000,1E1E1E,0D1117,2A2A72" alt="Typing SVG">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=sooraj-me&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
 
 ---
 
-## 👨‍💻 <span style="color:#D4AF37 ;">About Me</span>
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td>
-
-🎓 Student @ **Sri Ramakrishna Institute of Technology**  
-💼 Former Intern @ **IITMRP**  
+<td width="60%">
+  
+🎓 **Student @ Sri Ramakrishna Institute of Technology**  
+💼 **Former Intern @ IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
 ⚡ Passionate about building **interactive websites & scalable apps**  
-🔭 Explore my work 👉 [**Portfolio**](https://sooraj-me.github.io/portfolio/)
+🧭 Always exploring new technologies and ideas  
+
+🎯 **Goal (2025)**: Contribute to open-source & land a full-time role as a **Full Stack / Data Engineer**  
+
+👉 Explore my work: [**Portfolio**](https://sooraj-me.github.io/portfolio/)
 
 </td>
 <td align="center">
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
 </td>
 </tr>
 </table>
 
 ---
 
-## 🌐 <span style="color:#D4AF37 ;">Connect with Me</span>
+## 🌟 Featured Projects
+
+### 🎬 **Movie Discovery Web App**
+> A sleek MERN web app that helps users discover trending, top-rated, and upcoming movies with live API integration.
+  
+🔗 [Live Demo](https://sooraj-me.github.io/movie-discovery) | 💻 [Repository](https://github.com/sooraj-me/movie-discovery)  
+🛠 **Tech Stack:** React, Node.js, Express, MongoDB, TMDB API  
+
+---
+
+### 🧠 **AI Face Tracker with Auto-Registration**
+> Real-time intelligent face tracking system that detects, registers, and counts unique visitors using YOLOv8 and OpenCV.
+
+🔗 [Live Demo](https://sooraj-me.github.io/face-tracker) | 💻 [Repository](https://github.com/sooraj-me/face-tracker)  
+🛠 **Tech Stack:** Python, OpenCV, YOLOv8, Flask, MongoDB  
+
+---
+
+### 🏫 **Smart Attendance Management System**
+> A full-stack attendance tracker for students and teachers — with authentication, dashboards, and live database updates.
+
+🔗 [Live Demo](https://sooraj-me.github.io/student-attendance-system) | 💻 [Repository](https://github.com/sooraj-me/student-attendance-system)  
+🛠 **Tech Stack:** HTML, CSS, JavaScript, React, Node.js, Express, MongoDB  
+
+---
+
+## 🧠 Currently Exploring
+
+🧩 Deep Dive into **Algorithms**  
+🤖 Hands-on with **Machine Learning Models**  
+☁️ Experimenting with **Cloud Deployments**  
+📊 Crafting **Data Visualization Dashboards**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img height="45" src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap,js,mysql" />
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+
+<p align="center">
+  <img height="45" src="https://skillicons.dev/icons?i=vscode,pycharm,notion,netlify,github,figma" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🚀 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=0D1117&color=F75C7E&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥇 Completed **Internship @ IITMRP**
+- 🚀 Built multiple **Full Stack Projects**
+- 📊 Created interactive **Data Analysis Dashboards**
+- 🌟 Consistently active in **tech & coding communities**
+
+---
+
+## 📫 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sooraj-r-nair-38757925a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -42,53 +128,11 @@
 
 ---
 
-## 🧑‍💻 <span style="color:#D4AF37 ;">Tech Stack</span>
-
+## 💡 “Code. Create. Contribute.”
 <p align="center">
-  <img height="50" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/c-programming.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/bootstrap.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/javascript.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-</p>
-
----
-
-## ⚡ <span style="color:#D4AF37 ;">Tools & IDEs</span>
-
-<p align="center">
-  <img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="50" src="https://img.icons8.com/color/48/pycharm.png"/>
-  <img height="50" src="https://img.icons8.com/color/480/notion--v1.png"/>
-  <img height="50" src="https://img.shields.io/badge/Netlify-FFD700?style=for-the-badge&logo=netlify&logoColor=000000"/>
-  <img height="50" src="https://img.icons8.com/glyph-neue/64/FFD700/github.png"/>
-</p>
-
----
-
-## 📊 <span style="color:#D4AF37 ;">GitHub Analytics</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=tokyonight&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github.com/sooraj-me/sooraj-me/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=tokyonight&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 <span style="color:#D4AF37 ;">Contribution Graph</span>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sooraj-me&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Sooraj's Contribution Graph"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sooraj-me&style=for-the-badge&color=FFD700&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </p>
