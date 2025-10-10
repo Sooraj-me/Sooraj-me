@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
 </h1>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sooraj-me&label=Profile+Views&color=00C9FF&style=for-the-badge" alt="Profile Views Counter"/>
+</p>
+
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=sooraj-me&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
@@ -32,7 +37,8 @@
     style="max-width: 100%; height: auto; border-radius: 10px;"
   >
 </td>
-
+</tr>
+</table>
 
 ---
 
