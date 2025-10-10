@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey+there+👋+I'm+Sooraj+R+Nair!;Welcome+to+my+Digital+Space+🌍" />
 </h1>
 
-
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=sooraj-me&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
@@ -26,11 +25,14 @@
 👉 Explore my work: [**Portfolio**](https://sooraj-me.github.io/portfolio/)
 
 </td>
-<td align="center">
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif">
+<td align="center" style="text-align:center;">
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    alt="coding gif"
+    style="max-width: 100%; height: auto; border-radius: 10px;"
+  >
 </td>
-</tr>
-</table>
+
 
 ---
 
