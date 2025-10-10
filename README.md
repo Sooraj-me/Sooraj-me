@@ -107,8 +107,7 @@
 ## 🧠 Currently Exploring
 
 🧩 Deep Dive into **Artificial Intelligence**  
-🤖 Hands-on with **Machine Learning Models** 
-☁️ Experimenting with **Cloud Deployments**  
+🤖 Hands-on with **Machine Learning Models**  
 📊 Crafting **Data Visualization Dashboards**
 
 ---
