@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=sooraj-me&label=Profile+Views&color=00C9FF&style=for-the-badge" alt="Profile Views Counter"/>
 </p>
 
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=sooraj-me&data=followers,repositories,stars,commits&theme=darkmode" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
