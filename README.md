@@ -141,7 +141,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sooraj_me?ext=activity&theme=dark&border=0&font=Fira%20Code&radius=10" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Sooraj_R_Nair?ext=activity&theme=dark&border=0&font=Fira%20Code&radius=10" alt="LeetCode Stats" />
 </p>
 
 ---
