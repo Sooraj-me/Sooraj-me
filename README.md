@@ -138,6 +138,14 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sooraj_me?ext=activity&theme=dark&border=0&font=Fira%20Code&radius=10" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 🚀 Contribution Graph
 
 <p align="center">
@@ -155,6 +163,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sooraj-me&label=Profile+Views&color=00C9FF&style=for-the-badge" alt="Profile Views Counter"/>
-</p>
