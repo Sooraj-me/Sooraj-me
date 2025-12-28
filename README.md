@@ -16,8 +16,7 @@
 <td width="60%">
 
 🎓 **Student @ Sri Ramakrishna Institute of Technology**
-
-💼 **Deep Learning Intern @ GeoSI**
+💼 **Deep Learning Intern @ GeoSI**<br>
 💼 **Former Intern @ IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
 ⚡ Passionate about building **interactive websites & scalable apps**  
