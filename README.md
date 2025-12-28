@@ -22,7 +22,7 @@
 ⚡ Passionate about building **interactive websites & scalable apps**  
 🧭 Always exploring new technologies and ideas  
 
-🎯 **Goal (2025)**: Contribute to open-source & land a full-time role as a **Full Stack / Data Analyst**  
+🎯 **Goal (2025)**: Contribute to open-source & land a full-time role as a **Full Stack AI Developer**  
 
 👉 Explore my work: [**Portfolio**](https://sooraj-me.github.io/portfolio/)
 
