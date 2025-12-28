@@ -15,7 +15,7 @@
 <tr>
 <td width="60%">
 
-🎓 **Student @ Sri Ramakrishna Institute of Technology**
+🎓 **Student @ Sri Ramakrishna Institute of Technology**<br>
 💼 **Deep Learning Intern @ GeoSI**<br>
 💼 **Former Intern @ IITMRP**  
 🌱 Currently learning **DSA** & **Machine Learning**  
