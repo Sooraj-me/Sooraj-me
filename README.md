@@ -15,14 +15,16 @@
 <tr>
 <td width="60%">
 
-🎓 **Student @ Sri Ramakrishna Institute of Technology**<br>
-💼 **Deep Learning Intern @ GeoSI**<br>
-💼 **Former Intern @ IITMRP**  
-🌱 Currently learning **DSA** & **Machine Learning**  
-⚡ Passionate about building **interactive websites & scalable apps**  
-🧭 Always exploring new technologies and ideas  
+🎓 **Graduate @ Sri Ramakrishna Institute of Technology**<br>
+💼 **Associate Software Engineer @ DLUX TECH**<br>
+💼 **Former Deep Learning Intern @ GeoSI**<br>
+💼 **Former Intern @ IITMRP**<br>
+🌱 Currently exploring **AI, Machine Learning & Automation**
+⚡ Passionate about building **scalable applications and intelligent automation solutions**
+🧩 Working with **Adobe Workfront, Workfront Fusion & Digital Asset Management (DAM)**
+🧭 Always exploring new technologies and innovative ideas
 
-🎯 **Goal (2025)**: Contribute to open-source & land a full-time role as a **Full Stack AI Developer**  
+🎯 **Goal:** Continuously grow as a software engineer by building impactful solutions, mastering emerging technologies, and contributing to the developer community.
 
 👉 Explore my work: [**Portfolio**](https://sooraj-me.github.io/portfolio/)
 
@@ -36,6 +38,31 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🧠 Currently Exploring
+
+🧩 **Artificial Intelligence & Machine Learning**
+🤖 **Deep Learning & Generative AI**
+⚙️ **Workflow Automation & Integration**
+🔗 **Adobe Workfront & Workfront Fusion**
+📁 **Digital Asset Management (DAM)**
+📊 **Data Analysis & Visualization**
+
+---
+
+## 🏆 Achievements & Highlights
+
+* 💼 Working as an **Associate Software Engineer @ DLUX TECH**
+* ⚙️ Hands-on experience with **Adobe Workfront & Workfront Fusion**
+* 🤖 Exploring **Artificial Intelligence, Machine Learning & Deep Learning**
+* 🚀 Built multiple **Full Stack Projects**
+* 📊 Created interactive **Data Analysis Dashboards**
+* 🥇 Completed **Deep Learning Internship @ GeoSI**
+* 🎓 Former Intern @ **IITMRP**
+* 🌟 Active in **technology and coding communities**
+
 
 ---
 
