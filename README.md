@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hey+there!+👋+I'm+Sooraj+R+Nair;Associate+Software+Engineer+💻;Automation+%7C+AI%2FML+%7C+Software+Development;Welcome+to+my+Digital+Space+🌍" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=Hey+there!+👋+I'm+Sooraj+R+Nair;Automation+%7C+AI%2FML+%7C+Software+Development;Welcome+to+my+Digital+Space+🌍" />
 </h1>
 
 <p align="center">
@@ -133,7 +133,7 @@ Machine Learning Models
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
 </p>
 
 ### 🗄️ Database & Data
@@ -167,7 +167,7 @@ Machine Learning Models
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,github,git,figma,notion" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,notion" />
 </p>
 
 ---
@@ -259,16 +259,9 @@ graph LR
 ```
 
 ---
-
 # 📈 GitHub Analytics
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical&hide_border=true" />
-
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sooraj-me&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj-me&layout=compact&theme=radical&hide_border=true" height="180" /> </p>
 
 ---
 
