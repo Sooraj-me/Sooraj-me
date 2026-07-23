@@ -60,12 +60,12 @@
 ## 🚀 What I Do
 
 ```text
-💻 Software Development       ████████████████████░░  90%
-⚙️ Workflow Automation        ██████████████████░░░░  80%
-🔄 System Integration         ████████████████░░░░░░  75%
-🤖 Artificial Intelligence    ██████████████░░░░░░░░  65%
-🧠 Machine Learning           ████████████░░░░░░░░░░  55%
-📊 Data Analysis              ███████████░░░░░░░░░░░  50%
+💻 Software Development      
+⚙️ Workflow Automation        
+🔄 System Integration         
+🤖 Artificial Intelligence   
+🧠 Machine Learning           
+📊 Data Analysis              
 ```
 
 ---
